@@ -19,12 +19,12 @@
 ---
 
 ## Tecnologias utilizadas
-HTML5 — estrutura das páginas
-CSS3 — estilização, layout e responsividade
-JavaScript — interatividade, principalmente no menu mobile
-Font Awesome — ícones utilizados na interface
-Google Fonts — tipografia do projeto
-Git e GitHub — versionamento e hospedagem do código
+- HTML5 — estrutura das páginas
+- CSS3 — estilização, layout e responsividade
+- JavaScript — interatividade, principalmente no menu mobile
+- Font Awesome — ícones utilizados na interface
+- Google Fonts — tipografia do projeto
+- Git e GitHub — versionamento e hospedagem do código
 
 ---
 
