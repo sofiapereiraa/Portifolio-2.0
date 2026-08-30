@@ -2,7 +2,8 @@
 
 
 - Portfólio pessoal desenvolvido para apresentar minha trajetória, habilidades, projetos e conhecimentos na área de tecnologia. Foco em desenvolvimento web, responsividade e organização de código, buscando criar uma interface simples e agradável de navegar.
-  
+
+🔗 Link do Projeto: https://sofiapereiraa.github.io/Portifolio-2.0/
 ---
 
 ## Funcionalidades
